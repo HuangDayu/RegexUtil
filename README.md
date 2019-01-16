@@ -1,6 +1,7 @@
-# RegexUtil
+# 说明
 
-正则表达式工具类
+`RegexUtil.java`是正则表达式工具类  
+`RegexConstants.java`是正则表达式封装类  
 
 # 使用
 
